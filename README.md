@@ -1,1 +1,1 @@
-Check out the live versin [https://cerulean-cuchufli-a8b4be.netlify.app/]
+Check out the live versin [https://luminous-khapse-60cc6e.netlify.app/]
