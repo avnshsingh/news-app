@@ -10,7 +10,7 @@ const News = () => {
   useEffect(() => {
     axios
       .get(
-        `https://newsapi.org/v2/top-headlines?apiKey=6d36a43e2ab643af9f2a95f64b8bf2cc&country=${countrySelected}`
+        `https://newsapi.org/v2/top-headlines?apiKey=a2003766b898422aba86ebce6ee31f6c&country=${countrySelected}`
       )
       .then((res) => setNews(res.data.articles))
       .catch((err) => console.log(err));
